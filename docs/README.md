@@ -6,3 +6,7 @@ The website aims to help organizations ensure that their AI systems are secure, 
 industry standards and regulations. The site provides information on key areas such as data privacy, 
 security, and governance, as well as practical recommendations for deploying AI systems in a secure and 
 responsible manner. 
+
+## Contributing
+
+Simply join us on GitHub at [cloudsecurityalliance/ai-usage-policy](https://github.com/cloudsecurityalliance/ai-usage-policy)
