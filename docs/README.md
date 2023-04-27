@@ -9,4 +9,4 @@ responsible manner.
 
 ## Contributing
 
-Simply join us on GitHub at [cloudsecurityalliance/ai-usage-policy](https://github.com/cloudsecurityalliance/ai-usage-policy)
+Simply join us on GitHub at [cloudsecurityalliance/ai-usage-policy](https://github.com/cloudsecurityalliance/ai-usage-policy), getting involved in the [discussions](https://github.com/cloudsecurityalliance/ai-usage-policy/discussions) is a greta place to start.
