@@ -1,4 +1,4 @@
-# Cloud Security Alliance AI Usage Policy
+# AI Usage Policy
 
 The Cloud Security Alliance AI Usage Policy website provides tools, guidelines and best practices for 
 organizations using Artificial Intelligence (AI) and machine learning both in the cloud and on premises. 
