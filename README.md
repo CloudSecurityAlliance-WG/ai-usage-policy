@@ -1,6 +1,6 @@
 # AI Usage Policy
 
-This site is available at (https://ai-usage-policy.cloudsecurityalliance.org/)
+This site is available at https://ai-usage-policy.cloudsecurityalliance.org/
 
 The Cloud Security Alliance AI Usage Policy website provides tools, guidelines and best practices for 
 organizations using Artificial Intelligence (AI) and machine learning both in the cloud and on premises. 
