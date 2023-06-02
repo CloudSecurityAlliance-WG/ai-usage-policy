@@ -7,8 +7,11 @@ organizations using Artificial Intelligence (AI) and machine learning both in th
 The website aims to help organizations ensure that their AI systems are secure, ethical, and aligned with 
 industry standards and regulations. The site provides information on key areas such as data privacy, 
 security, and governance, as well as practical recommendations for deploying AI systems in a secure and 
-responsible manner. 
+responsible manner. You can sign up at [https://csaurl.org/ai-usage-policy-signup](https://csaurl.org/ai-usage-policy-signup). 
 
-## Contributing
+## Resources
 
-Simply join us on GitHub at [cloudsecurityalliance/ai-usage-policy](https://github.com/cloudsecurityalliance/ai-usage-policy), getting involved in the [discussions](https://github.com/cloudsecurityalliance/ai-usage-policy/discussions) is a great place to start.
+* Google - user the sign up form to get access to the discussion groups, drafts, etc.
+* GitHub - [cloudsecurityalliance/ai-usage-policy](https://github.com/cloudsecurityalliance/ai-usage-policy), longer term we are planning to create tools to help with policy generation
+* Cloud Security Alliance Circle - Our general AI group is at https://csaurl.org/circle-ai
+
