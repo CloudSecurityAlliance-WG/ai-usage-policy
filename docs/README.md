@@ -7,6 +7,10 @@ industry standards and regulations. The site provides information on key areas s
 security, and governance, as well as practical recommendations for deploying AI systems in a secure and 
 responsible manner. 
 
-## Contributing
+## Getting Involved
 
-Simply join us on GitHub at [cloudsecurityalliance/ai-usage-policy](https://github.com/cloudsecurityalliance/ai-usage-policy), getting involved in the [discussions](https://github.com/cloudsecurityalliance/ai-usage-policy/discussions) is a great place to start.
+You can sign up at [https://csaurl.org/ai-usage-policy-signup](https://csaurl.org/ai-usage-policy-signup). 
+
+## Resources
+
+We have a Google drive (accessible to members who have signed up), and a public GitHub repo at [cloudsecurityalliance/ai-usage-policy](https://github.com/cloudsecurityalliance/ai-usage-policy), longer term we are planning to create tools to help with policy generation.
